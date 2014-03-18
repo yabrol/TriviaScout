@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>audioClips</key>
+	<array/>
+	<key>audioTrashClips</key>
+	<array/>
+	<key>lastClipUniqueID</key>
+	<integer>1</integer>
+	<key>playheadPosition</key>
+	<integer>319</integer>
+	<key>relativePlayHeadPosition</key>
+	<real>0.5</real>
+	<key>selectionEndFrame</key>
+	<integer>-1</integer>
+	<key>selectionStartFrame</key>
+	<integer>-1</integer>
+	<key>selectionType</key>
+	<integer>1</integer>
+	<key>timelineZoom</key>
+	<real>1</real>
+	<key>version</key>
+	<string>4.1</string>
+	<key>videoClips</key>
+	<array>
+		<dict>
+			<key>class</key>
+			<string>video</string>
+			<key>duration</key>
+			<integer>32000</integer>
+			<key>file</key>
+			<string>rockaway final 3.dv</string>
+			<key>in</key>
+			<integer>0</integer>
+			<key>isSelected</key>
+			<true/>
+			<key>mediaHandlePost</key>
+			<integer>0</integer>
+			<key>name</key>
+			<string>rockaway final 3</string>
+			<key>out</key>
+			<integer>320</integer>
+			<key>shelfX</key>
+			<integer>0</integer>
+			<key>shelfY</key>
+			<integer>0</integer>
+			<key>thumb</key>
+			<integer>0</integer>
+			<key>timeScale</key>
+			<integer>2997</integer>
+			<key>track</key>
+			<integer>1</integer>
+			<key>type</key>
+			<integer>1</integer>
+			<key>uniqueID</key>
+			<integer>0</integer>
+			<key>version</key>
+			<string>4</string>
+		</dict>
+	</array>
+	<key>videoStandard</key>
+	<string>DV-NTSC</string>
+	<key>videoTrashClips</key>
+	<array/>
+	<key>writingApplicationName</key>
+	<string>iMovie</string>
+	<key>writingApplicationVersion</key>
+	<string>6.0</string>
+</dict>
+</plist>
